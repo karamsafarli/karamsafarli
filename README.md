@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Karam.<br>I'm Front-End developer.
+Hi, I'm Karam.<br>I'm Web developer.
 
 
 ## 🌐 Socials:
