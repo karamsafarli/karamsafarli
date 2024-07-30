@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Karam.<br>I'm Web developer.
+Hi, I'm Karam.<br>I'm Software developer.
 
 
 ## 🌐 Socials:
