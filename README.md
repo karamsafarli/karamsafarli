@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Karam.<br>I'm Software developer.
+Hi, I'm Karam.<br>Lock-in Software developer.
 
 
 ## 🌐 Socials:
