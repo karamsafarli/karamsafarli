@@ -1,5 +1,5 @@
 # About Me:
-Hi, I'm Karam.<br>Lock-in Software Developer.
+Hi, I'm Karam Safarli.<br>Lock-in Software Developer.
 
 
 ## 🌐 Socials:
