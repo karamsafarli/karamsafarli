@@ -11,9 +11,6 @@ Hi, I'm Karam Safarli.<br>Lock-in Software Developer.
 ![](https://github-readme-stats.vercel.app/api?username=karamsafarli&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=karamsafarli&theme=dracula&hide_border=true)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=karamsafarli&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=karamsafarli&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
