@@ -2,7 +2,7 @@
 
 
 # About Me:
-Hi, I'm Karam Safarli.<br>Lock-in Software Developer.
+I'm Karam Safarli.<br>Lock-in Software Developer.
 
 
 ## 🌐 Socials:
