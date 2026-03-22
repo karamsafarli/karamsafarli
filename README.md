@@ -1,7 +1,7 @@
 <img src="https://pacman.abozanona.me?username=karamsafarli" />
 
 
-# About Me:
+# About Me
 I'm Karam Safarli.<br>Lock-in Software Developer.
 
 
